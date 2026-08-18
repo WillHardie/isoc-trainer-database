@@ -1,0 +1,41 @@
+# Photo debt — parked improvements
+
+Canon photos below true 600x600 source quality. Re-source when time permits.
+
+- AAS Ahmad Al-Assad: no photo anywhere
+- AB Anne Bleeker: upscaled from 499x499 netlify source
+- AL Anouska Leibovici: upscaled from 499x499 netlify source
+- AAB Ayman Albarbary: upscaled from 150px docx thumbnail
+- CS Caitlin Shannon: upscaled from 440x550 netlify source
+- CC Corrina Cross: upscaled from 499x499 netlify source
+- DB Desiree Banugo: no photo anywhere
+- ET Eithne Treanor: no photo anywhere
+- EY Elena Yakunina: upscaled from 499x499 netlify source
+- EB Emily Beadon: no photo anywhere
+- EP Eva Di Pierro: upscaled from 295x413 netlify source
+- FH Felice Hawley: upscaled from 500x500 netlify source
+- HD Hanan Darwish: upscaled from 150px docx thumbnail
+- HN Heba Al Nabulsi: upscaled from 150px docx thumbnail
+- HA Hisham Al Ayass: upscaled from 500x500 netlify source
+- IL Isabelle Leonard: upscaled from 150px docx thumbnail
+- IS Israa Shaheen: upscaled from 376x376 netlify source
+- JC James Cordahi: upscaled from 470x470 netlify source
+- JP Jenni Perry: upscaled from 500x500 netlify source
+- JN Joumana Al Nounou: upscaled from 337x337 netlify source
+- KH Katral-Nada Hassan: upscaled from 150px docx thumbnail
+- KP Katrina Prentice: upscaled from 150px docx thumbnail
+- NW Nick Walshe: upscaled from 469x469 netlify source
+- PM Pascale Muylaert: upscaled from 150px docx thumbnail
+- PC Paul Chequer: upscaled from 150px docx thumbnail
+- PV Paul Venn: upscaled from 150px docx thumbnail
+- PH Pauline Haase: upscaled from 150px docx thumbnail
+- RE Rabih Elkhodr: upscaled from 150px docx thumbnail
+- SW Samantha Wood: no photo anywhere
+- SC Sarah Cocker: upscaled from 499x499 netlify source
+- SJ Siân Jones: upscaled from 150px docx thumbnail
+- SL Siobhan Leyden: upscaled from 150px docx thumbnail
+- SB Stuart Bruce: upscaled from 150px docx thumbnail
+- TH Tim Harrison: upscaled from 423x423 netlify source
+- TC Tinnie Chow: upscaled from 150px docx thumbnail
+- WH Will Hardie: upscaled from 500x500 netlify source
+- LW Louise Watson: upscaled from 500x500 netlify source
