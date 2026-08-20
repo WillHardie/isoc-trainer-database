@@ -1,0 +1,111 @@
+{
+ "name": "Lama Atallah",
+ "title": "Corporate trainer and executive communication coach",
+ "base": "United Arab Emirates",
+ "languages": [
+  "English",
+  "Arabic",
+  "French"
+ ],
+ "years": "15+",
+ "profile": "Lama is a corporate trainer and ICF certified coach with more than 15 years' experience supporting senior professionals across government, education and industry. She teaches strategic communication at Abu Dhabi University and has delivered executive training for UAE ministries, authorities and national companies including ADNOC, DEWA, Mubadala and Dubai Police. She holds a master's degree in communication from the University of Ottawa and trains in English and Arabic.",
+ "expertise": [
+  "Executive communication coaching",
+  "Public speaking and presentation skills",
+  "Strategic and corporate communication",
+  "Media and crisis management",
+  "Emotional intelligence",
+  "Protocol and business etiquette",
+  "Cross-cultural communication",
+  "Customer experience management"
+ ],
+ "clients": [
+  {
+   "sector": "Government and public authorities",
+   "names": [
+    "Ministry of Interior",
+    "NCEMA",
+    "Dubai Police",
+    "Roads and Transport Authority",
+    "DEWA",
+    "Department of Energy Abu Dhabi",
+    "General Pension and Social Security Authority",
+    "Government of Ajman",
+    "Al Ain City Municipality"
+   ]
+  },
+  {
+   "sector": "Energy and industry",
+   "names": [
+    "ADNOC",
+    "National Drilling Company",
+    "Mubadala"
+   ]
+  },
+  {
+   "sector": "Education",
+   "names": [
+    "Abu Dhabi University",
+    "Khalifa University"
+   ]
+  }
+ ],
+ "career": [
+  {
+   "role": "Trainer and executive communication coach",
+   "org": "ISOC",
+   "dates": "2024–present",
+   "bullets": [
+    "Delivers corporate communication, public speaking and coaching programmes in English and Arabic"
+   ]
+  },
+  {
+   "role": "Instructor in strategic communication",
+   "org": "Abu Dhabi University",
+   "dates": "2020–present",
+   "bullets": [
+    "Teaches public speaking, media management, public relations, crisis communication and protocol in English and Arabic"
+   ]
+  },
+  {
+   "role": "Executive corporate trainer and communication coach",
+   "org": "Corporate and government clients, UAE",
+   "dates": "2015–present",
+   "bullets": [
+    "Designs and delivers programmes in communication skills, emotional intelligence, customer experience and leadership for UAE government and corporate clients"
+   ]
+  },
+  {
+   "role": "Marketing and sales executive",
+   "org": "Gulf Wings",
+   "dates": "2017–2018"
+  },
+  {
+   "role": "Regulatory policy analyst",
+   "org": "Health Canada",
+   "dates": "2012–2015"
+  },
+  {
+   "role": "Information management analyst",
+   "org": "Government of Canada",
+   "dates": "2011"
+  },
+  {
+   "role": "Consultant",
+   "org": "Tessera Executive Search / Signium International",
+   "dates": "2007–2009"
+  },
+  {
+   "role": "Journalist",
+   "org": "Dubai TV",
+   "dates": "2001–2002"
+  }
+ ],
+ "education": [
+  {
+   "qual": "MA Communication and Media Studies",
+   "inst": "University of Ottawa",
+   "year": "2015"
+  }
+ ]
+}
